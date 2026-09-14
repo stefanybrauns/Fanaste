@@ -9,10 +9,12 @@ Meu nome é **Stefany Batista**, tenho 26 anos e uma sede de viver que nenhuma f
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **TypeScript**
 - **SQL**
 - **Python**
 - **Java**
 - **Bootstrap**
+- **Angular**
   
 
 
